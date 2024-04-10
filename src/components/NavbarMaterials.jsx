@@ -10,7 +10,7 @@ export default function NavbarMaterials() {
     setExportOption(e.target.value);
   };
 
-  const notify = () => toast.success("Batch Successfully Added!");
+  const notify = () => toast.success("Batch Successfully Added!" );
 
   return (
     <div className="flex flex-row justify-between items-center border-1 border-black border-solid mt-8">
