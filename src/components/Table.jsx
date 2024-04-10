@@ -5,7 +5,6 @@ import NavbarMaterials from "./NavbarMaterials";
 import InStock from "./InStock";
 import OutOfStock from "./OutOfStock";
 import FewLeft from "./FewLeft";
-import Popup from "./Popup";
 
 function Table2() {
   const handleImageClick1 = () => {
